@@ -1,0 +1,13 @@
+README IN CONSTRUCTION 
+- 👋 Hi, I’m @OlynthoLucas
+- 👀 I’m interested in ... FORMULA 1 FAN
+- 🌱 I’m currently learning ... PYTHON AND JAVA
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+
+<!---
+OlynthoLucas/OlynthoLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
