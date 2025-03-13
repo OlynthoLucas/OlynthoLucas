@@ -14,9 +14,9 @@ Frontend: JavaScript, HTML, CSS, JSON (continuing my previous studies)
 
 📫 How to Reach Me
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/lucas-o-b36b52134
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/OlynthoLucas
 
 Feel free to explore my repositories and connect with me!
 <!---
