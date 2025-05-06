@@ -14,7 +14,7 @@ Frontend: JavaScript, HTML, CSS.
 
 📫 How to Reach Me
 
-LinkedIn: www.linkedin.com/in/lucas-o-b36b52134
+LinkedIn: https://www.linkedin.com/in/lucasolyntho/
 
 GitHub: https://github.com/OlynthoLucas
 
