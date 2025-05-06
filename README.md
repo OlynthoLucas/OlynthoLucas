@@ -8,9 +8,9 @@ I'm passionate about technology and constantly improving my skills to become a F
 
 📚 Currently Learning
 
-Backend: C#, MySQL
+Backend: Python, MySQL
 
-Frontend: JavaScript, HTML, CSS, JSON (continuing my previous studies)
+Frontend: JavaScript, HTML, CSS.
 
 📫 How to Reach Me
 
