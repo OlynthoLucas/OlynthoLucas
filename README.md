@@ -4,11 +4,11 @@ Hello World! I'm Lucas Olyntho
 
 🚀 About Me
 
-I'm passionate about technology and constantly improving my skills to become a Fullstack Developer. Currently, I'm focused on deepening my knowledge in backend and database management while reinforcing my frontend skills from previous semesters.
+I'm passionate about technology and constantly improving my skills to become a Fullstack Developer. Currently, I'm focused on deepening my knowledge in backend and database management while reinforcing my frontend skills.
 
 📚 Currently Learning
 
-Backend: Python, MySQL
+Backend: C#, SQL.
 
 Frontend: JavaScript, HTML, CSS.
 
