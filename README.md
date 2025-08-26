@@ -1,6 +1,6 @@
 Hello World! I'm Lucas Olyntho
 
-🌍 From Rio de Janeiro, Brazil | Currently living in Braga, Portugal🎓 Student of Systems Analysis and Development at PUC Minas💻 Aspiring Fullstack Developer
+🌍 From Rio de Janeiro, Brazil | Currently living in Porto, Portugal🎓 Student of Systems Analysis and Development at PUC Minas💻 Aspiring Fullstack Developer
 
 🚀 About Me
 
